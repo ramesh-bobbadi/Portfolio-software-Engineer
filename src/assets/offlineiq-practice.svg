@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">OfflineIQ interview practice screen</title>
+  <desc id="desc">An interview preparation dashboard with a question, answer recording controls, and progress score.</desc>
+  <rect width="1200" height="650" fill="#f8fafc"/>
+  <rect width="245" height="650" fill="#111827"/>
+  <text x="32" y="54" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700">OfflineIQ</text>
+  <text x="32" y="80" fill="#9ca3af" font-family="Arial,sans-serif" font-size="12">INTERVIEW PRACTICE</text>
+  <rect x="20" y="112" width="205" height="44" rx="8" fill="#7c3aed"/><text x="42" y="140" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="700">Practice session</text>
+  <g fill="#cbd5e1" font-family="Arial,sans-serif" font-size="14"><text x="42" y="198">Dashboard</text><text x="42" y="242">Question bank</text><text x="42" y="286">Progress</text><text x="42" y="330">Settings</text></g>
+  <text x="282" y="54" fill="#111827" font-family="Arial,sans-serif" font-size="25" font-weight="700">Frontend interview</text><text x="282" y="81" fill="#64748b" font-family="Arial,sans-serif" font-size="14">Question 7 of 12 · Random mode</text>
+  <rect x="282" y="112" width="570" height="245" rx="12" fill="#fff" stroke="#e2e8f0"/>
+  <text x="314" y="151" fill="#7c3aed" font-family="Arial,sans-serif" font-size="12" font-weight="700">QUESTION</text>
+  <text x="314" y="195" fill="#111827" font-family="Arial,sans-serif" font-size="22" font-weight="700">How does React manage component state?</text>
+  <text x="314" y="236" fill="#64748b" font-family="Arial,sans-serif" font-size="14">Explain the difference between local state and</text><text x="314" y="258" fill="#64748b" font-family="Arial,sans-serif" font-size="14">props, with a practical example.</text>
+  <rect x="314" y="291" width="160" height="42" rx="21" fill="#7c3aed"/><circle cx="340" cy="312" r="9" fill="#fff"/><text x="359" y="317" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">Start recording</text>
+  <rect x="882" y="112" width="270" height="245" rx="12" fill="#fff" stroke="#e2e8f0"/><text x="912" y="151" fill="#64748b" font-family="Arial,sans-serif" font-size="13">SESSION PROGRESS</text><circle cx="1017" cy="232" r="65" fill="none" stroke="#ede9fe" stroke-width="16"/><path d="M1017 167a65 65 0 0 1 58 94" fill="none" stroke="#8b5cf6" stroke-width="16"/><text x="983" y="240" fill="#111827" font-family="Arial,sans-serif" font-size="30" font-weight="700">58%</text><text x="953" y="282" fill="#64748b" font-family="Arial,sans-serif" font-size="13">completed</text>
+  <rect x="282" y="388" width="870" height="200" rx="12" fill="#fff" stroke="#e2e8f0"/><text x="314" y="428" fill="#111827" font-family="Arial,sans-serif" font-size="17" font-weight="700">Your performance</text>
+  <g font-family="Arial,sans-serif"><text x="314" y="474" fill="#64748b" font-size="13">Keyword coverage</text><rect x="500" y="462" width="470" height="12" rx="6" fill="#ede9fe"/><rect x="500" y="462" width="376" height="12" rx="6" fill="#8b5cf6"/><text x="1000" y="475" fill="#111827" font-size="13" font-weight="700">80%</text><text x="314" y="522" fill="#64748b" font-size="13">Answer clarity</text><rect x="500" y="510" width="470" height="12" rx="6" fill="#ede9fe"/><rect x="500" y="510" width="329" height="12" rx="6" fill="#a78bfa"/><text x="1000" y="523" fill="#111827" font-size="13" font-weight="700">70%</text><rect x="314" y="548" width="180" height="24" rx="12" fill="#f3e8ff"/><text x="334" y="565" fill="#7e22ce" font-size="12" font-weight="700">Works offline · Saved locally</text></g>
+</svg>

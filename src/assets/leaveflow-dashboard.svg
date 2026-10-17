@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">LeaveFlow employee leave dashboard</title>
+  <desc id="desc">A realistic leave management dashboard showing leave balances, pending requests, and a calendar.</desc>
+  <rect width="1200" height="650" fill="#f8fafc"/>
+  <rect width="220" height="650" fill="#172033"/>
+  <text x="32" y="52" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="700">LeaveFlow</text>
+  <text x="32" y="78" fill="#94a3b8" font-family="Arial,sans-serif" font-size="12">WORKSPACE</text>
+  <g fill="#cbd5e1" font-family="Arial,sans-serif" font-size="14">
+    <text x="32" y="130">Dashboard</text><text x="32" y="175">My leave</text><text x="32" y="220">Team calendar</text><text x="32" y="265">Approvals</text><text x="32" y="310">Employees</text>
+  </g>
+  <rect x="18" y="104" width="184" height="42" rx="8" fill="#2563eb"/>
+  <text x="32" y="130" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="700">Dashboard</text>
+  <circle cx="174" cy="36" r="14" fill="#60a5fa"/><text x="170" y="41" fill="#172033" font-family="Arial,sans-serif" font-size="12" font-weight="700">BR</text>
+  <text x="256" y="52" fill="#0f172a" font-family="Arial,sans-serif" font-size="25" font-weight="700">Good morning, Ramesh</text>
+  <text x="256" y="78" fill="#64748b" font-family="Arial,sans-serif" font-size="14">Here is your leave overview for this month.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="256" y="112" width="210" height="110" rx="10" fill="#fff" stroke="#e2e8f0"/><text x="276" y="142" fill="#64748b" font-size="13">Annual leave balance</text><text x="276" y="184" fill="#0f172a" font-size="34" font-weight="700">18</text><text x="326" y="183" fill="#64748b" font-size="13">days left</text>
+    <rect x="486" y="112" width="210" height="110" rx="10" fill="#fff" stroke="#e2e8f0"/><text x="506" y="142" fill="#64748b" font-size="13">Pending requests</text><text x="506" y="184" fill="#0f172a" font-size="34" font-weight="700">03</text><text x="556" y="183" fill="#f59e0b" font-size="13">awaiting review</text>
+    <rect x="716" y="112" width="210" height="110" rx="10" fill="#fff" stroke="#e2e8f0"/><text x="736" y="142" fill="#64748b" font-size="13">Used this year</text><text x="736" y="184" fill="#0f172a" font-size="34" font-weight="700">07</text><text x="786" y="183" fill="#16a34a" font-size="13">days used</text>
+  </g>
+  <rect x="256" y="250" width="440" height="340" rx="10" fill="#fff" stroke="#e2e8f0"/>
+  <text x="280" y="286" fill="#0f172a" font-family="Arial,sans-serif" font-size="17" font-weight="700">Recent leave requests</text>
+  <g font-family="Arial,sans-serif" font-size="13"><text x="280" y="325" fill="#64748b">TYPE</text><text x="430" y="325" fill="#64748b">DATES</text><text x="590" y="325" fill="#64748b">STATUS</text>
+    <text x="280" y="365" fill="#334155">Annual leave</text><text x="430" y="365" fill="#64748b">May 12 – 14</text><rect x="580" y="347" width="84" height="28" rx="14" fill="#dcfce7"/><text x="599" y="366" fill="#15803d">Approved</text>
+    <text x="280" y="420" fill="#334155">Sick leave</text><text x="430" y="420" fill="#64748b">Apr 04</text><rect x="580" y="402" width="84" height="28" rx="14" fill="#fef3c7"/><text x="597" y="421" fill="#b45309">Pending</text>
+    <text x="280" y="475" fill="#334155">Annual leave</text><text x="430" y="475" fill="#64748b">Mar 18 – 19</text><rect x="580" y="457" width="84" height="28" rx="14" fill="#dcfce7"/><text x="599" y="476" fill="#15803d">Approved</text>
+  </g>
+  <rect x="726" y="250" width="400" height="340" rx="10" fill="#fff" stroke="#e2e8f0"/><text x="750" y="286" fill="#0f172a" font-family="Arial,sans-serif" font-size="17" font-weight="700">Team availability</text>
+  <g fill="#64748b" font-family="Arial,sans-serif" font-size="12"><text x="750" y="330">MON</text><text x="830" y="330">TUE</text><text x="910" y="330">WED</text><text x="990" y="330">THU</text><text x="1070" y="330">FRI</text></g>
+  <g fill="#dbeafe"><rect x="750" y="350" width="55" height="55" rx="7"/><rect x="830" y="350" width="55" height="55" rx="7" fill="#dcfce7"/><rect x="910" y="350" width="55" height="55" rx="7"/><rect x="990" y="350" width="55" height="55" rx="7" fill="#fef3c7"/><rect x="1070" y="350" width="55" height="55" rx="7"/></g>
+  <g fill="#334155" font-family="Arial,sans-serif" font-size="14"><text x="772" y="382">12</text><text x="852" y="382">13</text><text x="932" y="382">14</text><text x="1012" y="382">15</text><text x="1092" y="382">16</text></g>
+  <rect x="750" y="440" width="350" height="70" rx="8" fill="#eff6ff"/><text x="770" y="470" fill="#1d4ed8" font-family="Arial,sans-serif" font-size="13" font-weight="700">Next team absence</text><text x="770" y="492" fill="#475569" font-family="Arial,sans-serif" font-size="13">Priya · Annual leave · May 15</text>
+</svg>
